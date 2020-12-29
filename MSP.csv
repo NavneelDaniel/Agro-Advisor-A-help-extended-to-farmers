@@ -1,0 +1,43 @@
+﻿Crops,Season,States,MSP,Yield
+Paddy,Kharif,Uttar Pradesh,1897,Good
+Paddy,Kharif,Maharashtra,1897,Bad
+Paddy,Kharif,Andhra Pradesh,1897,Good
+Maize,Kharif,Uttar Pradesh,1802,Bad
+Maize,Kharif,Maharashtra,1802,Bad
+Maize,Kharif,Andhra Pradesh,1802,Good
+Jowar,Kharif,Uttar Pradesh,2535,Bad
+Jowar,Kharif,Maharashtra,2535,Good
+Jowar,Kharif,Andhra Pradesh,2535,Bad
+Tur,Kharif,Uttar Pradesh,6298,Good
+Tur,Kharif,Maharashtra,6298,Bad
+Tur,Kharif,Andhra Pradesh,6298,Bad
+Cotton,Kharif,Uttar Pradesh,5537,Bad
+Cotton,Kharif,Maharashtra,5537,Good
+Cotton,Kharif,Andhra Pradesh,5537,Good
+Groundnut,Kharif,Uttar Pradesh,5434,Bad
+Groundnut,Kharif,Maharashtra,5434,Good
+Groundnut,Kharif,Andhra Pradesh,5434,Good
+Soyabean,Kharif,Uttar Pradesh,3851,Bad
+Soyabean,Kharif,Maharashtra,3851,Bad
+Soyabean,Kharif,Andhra Pradesh,3851,Bad
+Sunflower,Kharif,Uttar Pradesh,5605,Bad
+Sunflower,Kharif,Maharashtra,5605,Good
+Sunflower,Kharif,Andhra Pradesh,5605,Bad
+Wheat,Rabi,Uttar Pradesh,1985,Good
+Wheat,Rabi,Maharashtra,1985,Bad
+Wheat,Rabi,Andhra Pradesh,1985,Bad
+Barley,Rabi,Uttar Pradesh,1619,Good
+Barley,Rabi,Maharashtra,1619,Bad
+Barley,Rabi,Andhra Pradesh,1619,Bad
+Gram,Rabi,Uttar Pradesh,5148,Good
+Gram,Rabi,Maharashtra,5148,Bad
+Gram,Rabi,Andhra Pradesh,5148,Bad
+Mustard,Rabi,Uttar Pradesh,4726,Good
+Mustard,Rabi,Maharashtra,4726,Bad
+Mustard,Rabi,Andhra Pradesh,4726,Bad
+Sugarcane,Rabi,Uttar Pradesh,302,Bad
+Sugarcane,Rabi,Maharashtra,302,Good
+Sugarcane,Rabi,Andhra Pradesh,302,Bad
+Safflower,Rabi,Uttar Pradesh,5330,Bad
+Safflower,Rabi,Maharashtra,5330,Good
+Safflower,Rabi,Andhra Pradesh,5330,Bad

@@ -1,0 +1,43 @@
+﻿Crops,Season,States,MSP,,,Crops,Season,States,MSP,Yield
+Paddy,Kharif,UP,1897,1,,Paddy,Kharif,Uttar Pradesh,1897,1
+Paddy,Kharif,Andhra Pradesh,1897,1,,Paddy,Kharif,Maharashtra,1897,0
+Maize,Kharif,UP,1802,0,,Paddy,Kharif,Andhra pradesh,1897,1
+Maize,Kharif,Andhra Pradesh,1802,1,,Maize,Kharif,Uttar Pradesh,1802,0
+Jowar,Kharif,Maharashtra,2535,1,,Maize,Kharif,Maharashtra,1802,0
+Tur,Kharif,UP,6298,0,,Maize,Kharif,Andhra pradesh,1802,1
+Cotton,Kharif,Andhra Pradesh,5537,1,,Jowar,Kharif,Uttar Pradesh,2535,0
+Cotton,Kharif,Maharashtra,5537,1,,Jowar,Kharif,Maharashtra,2535,1
+Groundnut,Kharif,Andhra Pradesh,5434,1,,Jowar,Kharif,Andhra pradesh,2535,0
+Groundnut,Kharif,Maharashtra,5434,1,,Tur,Kharif,Uttar Pradesh,6298,0
+Soyabean,Kharif,Maharashtra,3851,0,,Tur,Kharif,Maharashtra,6298,0
+Sunflower,Kharif,Andhra Pradesh,5605,0,,Tur,Kharif,Andhra pradesh,6298,0
+Sunflower,Kharif,Maharashtra,5605,1,,Cotton,Kharif,Uttar Pradesh,5537,0
+Wheat,Rabi,UP,1985,1,,Cotton,Kharif,Maharashtra,5537,1
+Barley,Rabi,UP,1619,1,,Cotton,Kharif,Andhra pradesh,5537,1
+Gram,Rabi,UP,5148,1,,Groundnut,Kharif,Uttar Pradesh,5434,0
+Mustard,Rabi,UP,4726,1,,Groundnut,Kharif,Maharashtra,5434,1
+Sugarcanes,Rabi,UP,302,0,,Groundnut,Kharif,Andhra pradesh,5434,1
+Sugarcanes,Rabi,Maharashtra,302,1,,Soyabean,Kharif,Uttar Pradesh,3851,0
+Safflower,Rabi,Maharashtra,5330,1,,Soyabean,Kharif,Maharashtra,3851,0
+,,,,,,Soyabean,Kharif,Andhra pradesh,3851,0
+,,,,,,Sunflower,Kharif,Uttar Pradesh,5605,0
+,,,,,,Sunflower,Kharif,Maharashtra,5605,1
+,,,,,,Sunflower,Kharif,Andhra pradesh,5605,0
+,,,,,,Wheat,Rabi,Uttar Pradesh,1985,1
+,,,,,,Wheat,Rabi,Maharashtra,1985,0
+,,,,,,Wheat,Rabi,Andhra pradesh,1985,0
+,,,,,,Barley,Rabi,Uttar Pradesh,1619,1
+,,,,,,Barley,Rabi,Maharashtra,1619,0
+,,,,,,Barley,Rabi,Andhra pradesh,1619,0
+,,,,,,Gram,Rabi,Uttar Pradesh,5148,1
+,,,,,,Gram,Rabi,Maharashtra,5148,0
+,,,,,,Gram,Rabi,Andhra pradesh,5148,0
+,,,,,,Mustard,Rabi,Uttar Pradesh,4726,1
+,,,,,,Mustard,Rabi,Maharashtra,4726,0
+,,,,,,Mustard,Rabi,Andhra pradesh,4726,0
+,,,,,,Sugarcane,Rabi,Uttar Pradesh,302,0
+,,,,,,Sugarcane,Rabi,Maharashtra,302,1
+,,,,,,Sugarcane,Rabi,Andhra pradesh,302,0
+,,,,,,Safflower,Rabi,Uttar Pradesh,5330,0
+,,,,,,Safflower,Rabi,Maharashtra,5330,1
+,,,,,,Safflower,Rabi,Andhra pradesh,5330,0
